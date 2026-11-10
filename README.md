@@ -36,7 +36,7 @@ An interactive Power BI dashboard designed to analyze car insurance policies, cl
 
 ## 📸 Dashboard Preview
 
-![insurance Risk Analysis](images/insurance-dashboard.png)
+![Insurance_Risk_Dashboard](images/insurance-dashboard.png)
 
 ## 👩‍💻 About
 This project is part of my Data Analytics learning journey, where I applied Power BI concepts to build an interactive dashboard and explore insurance claim patterns.
